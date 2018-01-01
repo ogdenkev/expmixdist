@@ -3,7 +3,7 @@ Matlab functions to fit parameters for a mixture of exponential distribution
 
 ## Introduction
 
-Matlab has some good functions for dealing with exponential mixture distributions, e.g. `expfit`.  These functions extend this support to fit distributions that are mixtures of exponential components.
+Matlab has some good functions for dealing with exponential distributions, e.g. `expfit`.  These functions extend this support to fit distributions that are mixtures of exponential components.
 
 ## Getting started
 
